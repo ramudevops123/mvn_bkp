@@ -18,12 +18,5 @@ pipeline {
               }
            }
          }
-        
-        stage ('Deploy Stage') {
-           steps {
-              withMaven(maven : 'M2_HOME') {
-              }
-           }
-         }
-     }
+      }
 }
