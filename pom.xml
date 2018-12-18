@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>ramu</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.237.214.253:8081/repository/mobilebank-snap/</url>
+            <url>http://35.237.214.253:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
